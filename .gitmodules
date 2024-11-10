@@ -1,0 +1,12 @@
+[submodule "gs-core"]
+	path = gs-core
+	url = https://github.com/mid-guy/google-sheet-core
+[submodule "gs-canva"]
+	path = gs-canva
+	url = https://github.com/mid-guy/google-sheet-canva
+[submodule "gs-input"]
+	path = gs-input
+	url = https://github.com/mid-guy/google-sheet-input
+[submodule "gs-shared"]
+	path = gs-shared
+	url = https://github.com/mid-guy/google-sheet-shared.git
